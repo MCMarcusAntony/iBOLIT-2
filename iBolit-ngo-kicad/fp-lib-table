@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "iBolit_daughter")(type "KiCad")(uri "$(KIPRJMOD)/iBolit-ngo-kicad.pretty")(options "")(descr ""))
+)
