@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jordi.solis/PEN/Altair/MSX/iBolit-master/iBolit-daughter-kicad/iBolit_daughter.sch</source>
+    <date>jue 13 may 2021 17:11:43</date>
+    <tool>Eeschema 5.1.9-1.fc33</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>iBolit_daughter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>2k2</value>
+      <footprint>iBolit_daughter:R0805</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>20705065</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>VA-METER</value>
+      <footprint>iBolit_daughter:VA_METER</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="VA-METER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>753049C4</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>VA-METER</value>
+      <footprint>iBolit_daughter:VA_METER</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="VA-METER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>DDF2E3E2</tstamp>
+    </comp>
+    <comp ref="X3">
+      <value>VA-METER</value>
+      <footprint>iBolit_daughter:VA_METER</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="VA-METER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>03A3F618</tstamp>
+    </comp>
+    <comp ref="DC1">
+      <value>VA-?S</value>
+      <footprint>iBolit_daughter:4SIL</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="VA-?S" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2D7E9D21</tstamp>
+    </comp>
+    <comp ref="DC2">
+      <value>VA-?S</value>
+      <footprint>iBolit_daughter:4SIL</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="VA-?S" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CD9F1F2A</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>JP5Q_CUSTOM</value>
+      <footprint>iBolit_daughter:JP5Q_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP5Q_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>FA93C76E</tstamp>
+    </comp>
+    <comp ref="JP3">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>ACD8E5B6</tstamp>
+    </comp>
+    <comp ref="JP4">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>47274FB3</tstamp>
+    </comp>
+    <comp ref="JP5">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6716FC81</tstamp>
+    </comp>
+    <comp ref="JP6">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7F37E81D</tstamp>
+    </comp>
+    <comp ref="JP7">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600E0B9C</tstamp>
+    </comp>
+    <comp ref="JP8">
+      <value>JP4E_CUSTOM</value>
+      <footprint>iBolit_daughter:JP4_CUSTOM</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A6258458</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10-47uF</value>
+      <footprint>iBolit_daughter:C1210</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="C-EUC1210" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>38EC9686</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10-47uF</value>
+      <footprint>iBolit_daughter:C1210</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="C-EUC1210" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7F688051</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10-47uF</value>
+      <footprint>iBolit_daughter:C1210</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="C-EUC1210" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A4946E7A</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10-47uF</value>
+      <footprint>iBolit_daughter:C1210</footprint>
+      <libsource lib="iBolit_daughter-eagle-import" part="C-EUC1210" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E1633DAE</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="iBolit_daughter-eagle-import" part="C-EUC1210">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EUC1210</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iBolit_daughter-eagle-import" part="JP4E_CUSTOM">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JP4E_CUSTOM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iBolit_daughter-eagle-import" part="JP5Q_CUSTOM">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JP5Q_CUSTOM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iBolit_daughter-eagle-import" part="R-EU_R0805">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-EU_R0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iBolit_daughter-eagle-import" part="VA-?S">
+      <fields>
+        <field name="Reference">DC</field>
+        <field name="Value">VA-?S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-VIN" type="passive"/>
+        <pin num="2" name="+VIN" type="passive"/>
+        <pin num="3" name="-VOUT" type="passive"/>
+        <pin num="4" name="+VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iBolit_daughter-eagle-import" part="VA-METER">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">VA-METER</field>
+      </fields>
+      <pins>
+        <pin num="GNDIN" name="GNDI" type="BiDi"/>
+        <pin num="GNDOUT" name="GNDO" type="BiDi"/>
+        <pin num="NC1" name="NC1" type="BiDi"/>
+        <pin num="NC2" name="NC2" type="BiDi"/>
+        <pin num="NC3" name="NC3" type="BiDi"/>
+        <pin num="NC4" name="NC4" type="BiDi"/>
+        <pin num="VIN" name="VIN" type="BiDi"/>
+        <pin num="VOUT" name="VOUT" type="BiDi"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="iBolit_daughter-eagle-import">
+      <uri>/home/jordi.solis/PEN/Altair/MSX/iBolit-master/iBolit-daughter-kicad/iBolit_daughter-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(JP7-Pad3)">
+      <node ref="X2" pin="NC3"/>
+      <node ref="JP7" pin="3"/>
+    </net>
+    <net code="2" name="Net-(JP7-Pad2)">
+      <node ref="X2" pin="NC4"/>
+      <node ref="JP7" pin="2"/>
+    </net>
+    <net code="3" name="/+12VIN">
+      <node ref="X2" pin="VIN"/>
+      <node ref="JP4" pin="1"/>
+      <node ref="JP2" pin="5"/>
+    </net>
+    <net code="4" name="/+12VOUT">
+      <node ref="JP2" pin="6"/>
+      <node ref="X2" pin="VOUT"/>
+      <node ref="JP7" pin="4"/>
+    </net>
+    <net code="5" name="Net-(JP5-Pad3)">
+      <node ref="R1" pin="2"/>
+      <node ref="JP5" pin="3"/>
+      <node ref="X3" pin="NC1"/>
+    </net>
+    <net code="6" name="Net-(JP5-Pad2)">
+      <node ref="X3" pin="NC2"/>
+      <node ref="JP5" pin="2"/>
+    </net>
+    <net code="7" name="Net-(JP8-Pad3)">
+      <node ref="JP8" pin="3"/>
+      <node ref="X3" pin="NC3"/>
+    </net>
+    <net code="8" name="Net-(JP8-Pad2)">
+      <node ref="JP8" pin="2"/>
+      <node ref="X3" pin="NC4"/>
+    </net>
+    <net code="9" name="Net-(JP4-Pad2)">
+      <node ref="JP4" pin="2"/>
+      <node ref="X2" pin="NC2"/>
+    </net>
+    <net code="10" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1"/>
+      <node ref="JP5" pin="1"/>
+      <node ref="X3" pin="VIN"/>
+      <node ref="DC1" pin="4"/>
+    </net>
+    <net code="11" name="Net-(C8-Pad2)">
+      <node ref="X3" pin="VOUT"/>
+      <node ref="JP8" pin="4"/>
+      <node ref="C8" pin="2"/>
+      <node ref="DC2" pin="2"/>
+    </net>
+    <net code="12" name="/-12VIN">
+      <node ref="JP2" pin="1"/>
+      <node ref="DC1" pin="1"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="13" name="/-12VOUT">
+      <node ref="DC2" pin="3"/>
+      <node ref="C7" pin="1"/>
+      <node ref="JP2" pin="2"/>
+    </net>
+    <net code="14" name="Net-(JP3-Pad3)">
+      <node ref="JP3" pin="3"/>
+      <node ref="X1" pin="NC1"/>
+    </net>
+    <net code="15" name="Net-(JP3-Pad2)">
+      <node ref="JP3" pin="2"/>
+      <node ref="X1" pin="NC2"/>
+    </net>
+    <net code="16" name="Net-(JP6-Pad3)">
+      <node ref="JP6" pin="3"/>
+      <node ref="X1" pin="NC3"/>
+    </net>
+    <net code="17" name="Net-(JP6-Pad2)">
+      <node ref="X1" pin="NC4"/>
+      <node ref="JP6" pin="2"/>
+    </net>
+    <net code="18" name="/+5VIN">
+      <node ref="X1" pin="VIN"/>
+      <node ref="R1" pin="1"/>
+      <node ref="JP2" pin="9"/>
+      <node ref="JP3" pin="1"/>
+    </net>
+    <net code="19" name="/+5VOUT">
+      <node ref="JP6" pin="4"/>
+      <node ref="X1" pin="VOUT"/>
+      <node ref="JP2" pin="10"/>
+    </net>
+    <net code="20" name="Net-(JP4-Pad3)">
+      <node ref="JP4" pin="3"/>
+      <node ref="X2" pin="NC1"/>
+    </net>
+    <net code="21" name="/GND2">
+      <node ref="C7" pin="2"/>
+      <node ref="JP8" pin="1"/>
+      <node ref="JP7" pin="1"/>
+      <node ref="X2" pin="GNDOUT"/>
+      <node ref="X1" pin="GNDOUT"/>
+      <node ref="DC2" pin="4"/>
+      <node ref="DC2" pin="1"/>
+      <node ref="X3" pin="GNDOUT"/>
+      <node ref="JP2" pin="8"/>
+      <node ref="JP6" pin="1"/>
+      <node ref="JP2" pin="4"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="22" name="/GND1">
+      <node ref="JP4" pin="4"/>
+      <node ref="JP5" pin="4"/>
+      <node ref="C9" pin="2"/>
+      <node ref="JP3" pin="4"/>
+      <node ref="JP2" pin="3"/>
+      <node ref="JP2" pin="7"/>
+      <node ref="DC1" pin="3"/>
+      <node ref="DC1" pin="2"/>
+      <node ref="X3" pin="GNDIN"/>
+      <node ref="C6" pin="1"/>
+      <node ref="X2" pin="GNDIN"/>
+      <node ref="X1" pin="GNDIN"/>
+    </net>
+  </nets>
+</export>
