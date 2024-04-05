@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name iBolit_main-eagle-import)(type Legacy)(uri ${KIPRJMOD}/iBolit_main-eagle-import.lib)(options "")(descr ""))
+)
