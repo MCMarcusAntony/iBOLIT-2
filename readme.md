@@ -2,11 +2,11 @@
 New iBolit Simple Diagnostics Cartridge version based on previous work done by
 the RBSC group.
 --------------------------------------------------------------------------------
-Last 16.07.2022 updates included.
-PCB design converted to KiCAD.
-All parts moved to throught hole to help to begginers build.
-Fuses for all voltages on the top slot.
-Stop'n'go secondary daughter board added.
+- Last 16.07.2022 updates included.
+- PCB design converted to KiCAD.
+- All parts moved to throught hole to help to begginers build.
+- Fuses for all voltages on the top slot.
+- Stop'n'go secondary daughter board added.
 
 ![card](/iBolit-ngo-kicad/iBolit-ngo-f1.01b.jpg)
 
