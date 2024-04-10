@@ -6,7 +6,11 @@ the RBSC group.
 - PCB design converted to KiCAD.
 - All parts moved to throught hole to help to begginers build.
 - Fuses for all voltages on the top slot.
-- Stop'n'go secondary daughter board added.
+- Connection to a right hand daughter board added.
+
+![card](/iBolit-kicad/iBolit2.01_main_f.jpg)
+
+- Stop'n'go secondary daughter board design added.
 
 ![card](/iBolit-ngo-kicad/iBolit-ngo-f1.01b.jpg)
 
@@ -14,9 +18,9 @@ Tools added to this board are:
 - Logic probe included on Top three pin connector.
 - Lighting and acoustic signals to identify HIGH and LOW status.
 
-Code analisys (not properly working yet):
-- Stop/Go switch to stop MSX cpu.
-- Step pushbutton to run just an opcode each step.
+Code analisys tools (not properly working yet):
+- Stop/Go switch the cpu to stop procesing opcodes.
+- Step pushbutton to run just an opcode each time.
 
 Development based on Steve Ciarcia design:
 ![byoc-figure-4-5](/iBolit-ngo-kicad/byoc-figure-4-5.png)
