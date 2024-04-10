@@ -13,6 +13,7 @@ the RBSC group.
 Tools added to this board are:
 - Logic probe included on Top three pin connector.
 - Lighting and acoustic signals to identify HIGH and LOW status.
+
 Code analisys (not properly working yet):
 - Stop/Go switch to stop MSX cpu.
 - Step pushbutton to run just an opcode each step.
